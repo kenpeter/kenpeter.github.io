@@ -57,6 +57,7 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Strong problem solving skills"
   - text: "Great experience on web development"
+  - text: "IoT development ready"  
 
 me-img: "/img/jetpacktocat.png"
 
