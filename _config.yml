@@ -111,11 +111,23 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
+    date: "2006 - Today"
     description: "Saving the neighborhood!"
   - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+    date: "2006, 3 months"
+    description: "Web developer @ www.r-co.com.au"
+  - image: "/img/timeline/baracktocat.jpg"
+    date: "2007, 8 months"
+    description: "Web developer @ slatterymedia.com"
+  - image: "/img/timeline/baracktocat.jpg"
+    date: "2008, 3 months"
+    description: "Software developer @ www.emersion.com.au"
+  - image: "/img/timeline/baracktocat.jpg"
+    date: "2009 - 2015, 6 years"
+    description: "Software developer @ unimelb.edu.au (University of Melbourne)"
+  - image: "/img/timeline/baracktocat.jpg"
+    date: "2016 - current"
+    description: "IoT developer @ iGloo software"
 
 # First image of the Timeline
 
@@ -143,14 +155,14 @@ author_blurb_image: "/img/author.png"
 ##################
 
 social:
-  - title: "facebook"
-    url: "https://facebook.com/"
+#  - title: "facebook"
+#    url: "https://facebook.com/"
   - title: "twitter"
-    url: "https://twitter.com/"
+    url: "https://twitter.com/kenpeter"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+    url: "https://github.com/kenpeter"
+#  - title: "bitcoin"
+#    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
   - title: "rss"
     url: "/feed.xml"
 
@@ -167,8 +179,8 @@ social:
 # Sections shown in the index page
 
 pages_list:
-  About: 'about'
-  Blog: 'latest-post'
+  Hire me: 'about'
+#  Blog: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
 
