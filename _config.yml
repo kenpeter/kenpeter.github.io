@@ -105,6 +105,27 @@ disqus-shortname: "panossakkos"
 
 syntax-highlight: True
 
+
+########
+# Work #
+########
+works:
+  - image: "/img/work/anne_street.png"
+    description: "Anne Street Partners (Wordpress, AWS)"
+    url: "http://annestreetpartners.com.au"
+  - image: "/img/work/arts.png"
+    description: "Faculty of Arts (Squiz Matrix)"
+    url: "http://arts.unimelb.edu.au"
+  - image: "/img/work/cc.png"
+    description: "Culture and Communication (Drupal 7)"
+    url: "http://culture-communication.unimelb.edu.au"
+  - image: "/img/work/democracy.png"
+    description: "Democracy in Transition (Squiz Matrix)"
+    url: "http://intransition.government.unimelb.edu.au"
+  - image: "/img/work/qnv.png"
+    description: "QNV (Concrete 5)"
+    url: "http://qnv.com.au"
+
 ############
 # Timeline #
 ############
@@ -181,6 +202,7 @@ social:
 pages_list:
   Hire me: 'about'
 #  Blog: 'latest-post'
+  Work: 'work'
   Timeline: 'timeline'
   Contact: 'contact'
 
